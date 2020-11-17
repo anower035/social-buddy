@@ -1,0 +1,16 @@
+.Friend{
+    border:1px solid lightgrey;
+   background-color:seashell;    
+    margin:30px;
+    border-radius: 10px;
+}
+.Friend h4{
+    color:#009AFE;
+    padding:10px 0 0 10px;
+    margin-bottom:0;
+}
+.Friend Button{
+    margin:0 0 10px 10px;
+    padding:6px 20px;
+    background-color:#009AFE;
+}
